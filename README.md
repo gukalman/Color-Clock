@@ -3,7 +3,7 @@
 ## Built Width
 - HTML5
 - CSS3
-- JS
+- JavaScript
 ## Live Version
 
 https://gukalman.github.io/Color-Clock/
